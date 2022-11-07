@@ -1,0 +1,16 @@
+{
+  "name": "myfrontend-challenge",
+  "version": "1.0.0",
+  "description": "Frontend challenge collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "@evcorona",
+  "license": "ISC"
+}
