@@ -5,7 +5,8 @@ Lorem ipsum dolor sit amet, consectet
 ## Assets
 
 - [Hello World](/HelloWorld)
-- [Search Input with an expandable Effect](/SearchInput_ExpandableEffect)
+- [Search Input with an expandable effect](/SearchInput_ExpandableEffect)
+- [NavBar with binder divider effect](/NavBar_BinderDividerEffect)
 
 ---
 
