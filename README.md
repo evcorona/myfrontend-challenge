@@ -2,9 +2,10 @@
 
 Lorem ipsum dolor sit amet, consectet
 
-### Search Input
+## Assets
 
-- [Expandable Effect](/SearchInput_ExpandableEffect)
+- [Hello World](/HelloWorld)
+- [Search Input with an expandable Effect](/SearchInput_ExpandableEffect)
 
 ---
 
